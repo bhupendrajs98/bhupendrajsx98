@@ -1,4 +1,4 @@
-1[logo](https://github.com/bhupendrajs98/bhupendrajsx98/blob/main/banner(1).png?raw=true)
+![logo](https://github.com/bhupendrajs98/bhupendrajsx98/blob/main/banner(1).png?raw=true)
 <h1 align="left">Bhupendra Pal</h1>
 
 ###
